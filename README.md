@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi Salam kenal 👋
+
+### saya indra efendi mahasiswa uin sjech m djamil djambek bukittinggi
+#### jurusan pendidikan komputer
+
+![image](https://i.pinimg.com/736x/89/da/80/89da80f5df2d319c13aee1da297f4bf8.jpg)
 
 <!--
 **indra3f3ndi/indra3f3ndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
